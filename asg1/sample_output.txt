@@ -1,0 +1,96 @@
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                          ^---^.                                                                
+                       -=$######O-                                                              
+                     .O###########$^                                                            
+                    ^$##############-                                                           
+                   .$################^                                                          
+                   +#################=                                                          
+                   O##################.                                                         
+                   $##################.                                                         
+                   =#################$                                                          
+                   -#################+  ^^----^.                                                
+                    =################+O$+-^^-+O##O|^.                                           
+                     =#################^       ^=#-.--.                                         
+                      |$##############|          ^|  ^+|^                                       
+                        -+O$$$$#######.    .^.     .    -|                                      
+                              +######$     -.            .|.                                    
+               .^^^^.        +#######$     -          ^+O-^|.    .|OO|                          
+             |O######$+^    -#########^    ^.  ++-^.  |+#O^-|   -##=|#=                         
+           -$###########=   $#########+       -++#^.^ ^###^^-- -##O .##-                        
+          |##############$.-##########$       ^#$#O .^ =$=  ^|.O##$|O##|                        
+         -################O=###########+       O##$  ...-   ^|=########^                        
+         O##############################^      ^+|.   ^ .^ .||-$######O                         
+        .###############################$^      ..    ^  .|^   =#####$.                         
+        ^#################################-      ^^   ^  ^     .=##O+=                          
+        .##########################=-^..^|O+.     .^^^^ ^            =                          
+         =#################O#####$^        .-.       .              .=                          
+         .$###############+.#####-                                  ||                          
+          ^$#############+  +###$       -+-.                        =.                          
+           .+##########O-    $##$      .^.-                        +-                           
+             .-=O$$$O+^      ^$##.        ^|                      +|                            
+                              ^$#|         |O^                  -=^                             
+                               .O#-        .##O|.            .-+|                  .            
+                                 |$|        OO$##O+|--^^^-||||^                  |===^          
+                                   =O-   .  =O=OO$###O-^+=.                     ^O   +^         
+                                  ^OO$O+^|  -OO===$$| .|+=                      ^=   .+         
+                              ^|=O$OO$|^^--  -=OO=|  -|^.+|                      =    +         
+                          .-+OOOO$OOO=....-|.  ....||^...++.                  ^-|-    +         
+               .-||||||+=OOOOO==O$OOO=......|||||+O-.....O$OO=+-^.       .  ^|-^     ^|         
+              +O$OOOOOOOOO==OO==$OOOOO=^...^^^|^..-+^^..+O==OOOOOOO=+|-++||+^        +.         
+      .^     =$O========O===OO==O$$OOOOO|..^..--...+....^=O=O====OOOO$#-  ^-        ^|          
+        -.  ^$=O==OOOOOOOOOOOO====OO$OOO^^.....|..^+.....-$=OOOOOO=O##|   .         +^          
+         -  |O=OOOOOOOOOOOOOOOOO=OOOOOOO.......=++O$-....^$===OOO=O###.      ^^.    -|          
+         ^^ -O=OOOOOO===OOOOOOOO=OOOOOOO^......OOOO$$+^.^=O===OOOO###$   -     .^    +-         
+         .- .OO=OOOOOO==OOOOOOO==O$OOOOO=.....+O==$OOO$OOO===OOO=O####. ^|      ^.    =^        
+         .|  |$=OOOOO$$OO======O==O$OOOOOO+||=O==$OOOOO$O==OOOOO=O$$$#= ^|      .-    .=.       
+         ^-   =O==OO$$OO$OOOOOOOOO=O$OOOOO$OO==O$$OOOOO$$OOOO====O$OOO$O+O      .-    ^^=       
+         |^    +$$$OO==O=OOOOOOOOOO=OO$OOOO$==O$OOOOOO-.-|+=OOOOOO$#$$$=|=-          .- -+      
+         +     |$OO==O$$O===OO=OOOOO==O$$OOO$OOOOOO=-        .^-|++++-.   +-         ||  +-     
+        --   ^=$O==OO$OOOO=OOOOOOOO=OO==O$$OOOO$=|.                        +-       ---- .=     
+        +   |$O===O$OOOOOOOO==OOOOOO====O=--O$OO                            ||    ^++  |. +-    
+       |-  |$O===O$OOOOOOOOOOO=OOOOO===O=...+O=O.                            ^+. .. +^ .| -+    
+      .=  .$==O=O$OOOOOOOOOOOOOO=OOO=O=O+..^=O=$|                             .=^    +. |.^+    
+      |-   =O=O=OOOOOOOOOOOOOO$O=OOO===OO--=O==OO.                             .=.   -- ^-|-    
+      +    ^$===OOOOOOOOOOOOO$O===O==O=O$OOO====O=                              ^+   .| ^O|     
+      +     |O==OOOOOOOOOOOOO$=OOOOO==OO$=====OO=$+                              ||  ^+ +^      
+      +      =O=OOOOOOOOOOOO$OOOOOOO=OOO$=OOOO=O=O+                               ++-=++-       
+      |^     .$O==OOOOOOOOO$O=OOOOOOO$==$O==OO==OO.                                .^.          
+      .+^   .+#$$O==OOOOOO$O==OOOOO=$O==$O==OO=OO^                                              
+        -||++|OOO$OO=OOOOOO===O=OO=O$OO=OO=O=O$=.                                               
+              +O==O$OO==OO=OO==OO=O$O===O$=OOO-                                                 
+              -$====O$OOO=========$O=====$$$=                                                   
+              .$======OO$OOOOOOOO$$========OO                                                   
+               OO=========OO$$##$O==========$-                                                  
+               =O============O+OO===========OO.                                                 
+               -$============$-^$============O=                                                 
+               ^$============$. |$============$|                                                
+                $O===========O.  =$==========O$$|. ...^..                                       
+                OO===========O   .$O======OO$#OO$$OOO$$$OO=+|^.                                 
+                =$===========O    -$$OO$$####$OOO$$OOOOOOOOOO$O+^                               
+                .|$$OOO$$$$$$$-    ^O$OOO$$$OOOOO$$OOOOOOOOOOOOO$|                              
+          .-+=OOOO#OOOO$$$$OOOO     ^#OOOOOOOOOOO$OOO$$OOOOOOOOOO#-                             
+        -=O$OOOOOOO$OOOOOOOOOO$-    ^$$$OOOOOOOOOOOOOOOOOOOOOOOOO$O                             
+      .=$OOOOOOOOOOO$$OOOOOO$$O$^   |$OOOOOOOOOOOOOOOOOOOOOOOOOOO#$                             
+     ^$OOOOOOOOOOOOOOOOOOOOOOOOO+   ^$OOOOOOOOOOOOOOOOOOOOOOOOOOO#=                             
+     OOOOOOOOOOO$OOOOOOOOOOOOOOO=    +$OOOOOOOOOOOOOOOOOOOOOOOOO#$.                             
+    -$OOOOOOOOOOOOOOOOOOOOOOOOO$|     =$OOOOOOOOOOOOOOOOOOOOOO$#O.                              
+    |$OOOOOOOOOOOOOOOOOOOOOOOOOO       -=$OOOOOOOOOOOOOOOOOO$$O-                                
+    ^#OOOOOOOOOOOOOOOOOOOOOOOO$^         ^|=OOOOOOOOOOOOO$$O=-                                  
+     =#OOOOOOOOOOOOOOOOOOOOO$O^              .^-|+++++++|-^                                     
+      =#OOOOOOOOOOOOOOOOOO$$|                                                                   
+       |$$OOOOOOOOOOOOOO$O|.                                                                    
+        .|=$$$$OOO$$$$O+^                                                                       
+           .^|||||||-.                                                                          
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
